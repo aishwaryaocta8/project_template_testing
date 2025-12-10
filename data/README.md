@@ -1,6 +1,6 @@
 # Data Directory
 
-This directory contains project data files.
+This directory contains project related data files.
 
 ## Structure
 
