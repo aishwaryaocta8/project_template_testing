@@ -1,0 +1,16 @@
+# Project Settings
+project:
+  name: "llm-application"
+  version: "0.1.0"
+
+# LLM Configuration
+llm:
+  model: "gpt-4"
+  temperature: 0.7
+  max_tokens: 1000
+
+# Data Configuration
+data:
+  raw_path: "data/raw"
+  processed_path: "data/processed"
+
